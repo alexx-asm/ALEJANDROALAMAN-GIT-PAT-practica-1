@@ -77,3 +77,7 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
 #### Logs:
 Docker version 20.10.22, build 3a2c30b
+
+### Exploracion adicional Docker:
+
+He invertido bastante tiempo en que me funcionara correctamente. He aprendido que Windows 10 y 11 WSL 2 como máquina y había un error que hacía en ese caso que se quedara "abriendo" indefinidamente sin poder hacer nada más que apaños. En la última versión actualizada afortunadamente se ha corregido. 
